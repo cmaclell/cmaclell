@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋 I'm Chris
+- You can find out more about me here: https://chrismaclellan.com
+- You can learn about my research here: https://tail.cc.gatech.edu 
 
 <!--
 **cmaclell/cmaclell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
